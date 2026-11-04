@@ -12,16 +12,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3689-maximum-total-subarray-value-i](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/3689-maximum-total-subarray-value-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Tree
 |  |
 | ------- |
@@ -42,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3689-maximum-total-subarray-value-i](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/3689-maximum-total-subarray-value-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
