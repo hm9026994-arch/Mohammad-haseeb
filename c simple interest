@@ -1,0 +1,14 @@
+#include <stdio.h>
+// find the simple interest of 
+// x rupees over y time and z interest 
+int main()
+{
+    float x = 1000.0f; 
+    float y = 2.0f;   
+    float z = 5.0f;    
+    float simple_interest = (x * y * z) / 100.0f;
+
+    printf("Simple interest: %.2f rupees\n", simple_interest);
+    return 0;
+}
+
