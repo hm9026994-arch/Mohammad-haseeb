@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/1352-product-of-the-last-k-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/1352-product-of-the-last-k-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -63,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
