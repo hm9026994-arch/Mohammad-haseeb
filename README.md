@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/1352-product-of-the-last-k-numbers) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Data Stream
 |  |
 | ------- |
@@ -92,4 +95,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/3411-maximum-subarray-with-equal-products) |
+## Binary Search
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Depth-First Search
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Binary Lifting
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
