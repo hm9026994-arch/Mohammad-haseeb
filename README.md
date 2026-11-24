@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/1352-product-of-the-last-k-numbers) |
+| [1929-concatenation-of-array](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hm9026994-arch/Mohammad-haseeb/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
